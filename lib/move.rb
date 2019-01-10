@@ -13,4 +13,4 @@ def input_to_index(user_input)
    player_move - 1
  end
  
- def move
+ 
