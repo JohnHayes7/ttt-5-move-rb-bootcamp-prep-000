@@ -9,5 +9,8 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(user_input)
-   user_input.to_i
-   user_input - 1
+   player_move = user_input.to_i
+   player_move - 1
+ end
+ 
+ def move
