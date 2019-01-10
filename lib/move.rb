@@ -13,7 +13,7 @@ def input_to_index(user_input)
    player_move - 1
  end
  
- def move(board, board_index, char="X")
+ def move(board, board_index,"X")
     
  end
  
